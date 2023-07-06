@@ -17,4 +17,10 @@ This repository contains the Python codes for the following tasks:
 3. transcript.ipynb : contains the code for scraping transcript files from the URL
 4. speechTotext.ipynb : contains the code for parsing through the transcript file, matching the sentences and their timestamps from the transcript to their respective audio file, and thereby splitting the audio file into corresponding segments.
 
+### List of Folders:
+1. Videos: contains folder-wise extracted audio files along with their split segments corresponding to the timestamps in the transcript files.
+2. VTT_Scripts: contains the folder-wise English and Hindi transcripts corresponding to the respective audio files.
+
 <hr>
+
+Note: Do change the paths to your local directories as mentioned through the passage of the Python codes.
