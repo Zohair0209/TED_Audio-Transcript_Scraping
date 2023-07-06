@@ -2,6 +2,8 @@
 
 ### This project has been implemented on the url: https://www.ted.com/talks
 
+<hr>
+
 This repository contains the python codes for the following tasks:
 1. Scraping video files and extracting audio from them.
 2. Scraping English and Hindi transcript files for the respective videos.
